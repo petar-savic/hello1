@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartyPans</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="policyText">By signing you agree to the <a href="https://www.apple.com/">Terms of Use</a> and <a href="https://www.google.com/">Privacy Policy</a></string>
+
+</resources>
